@@ -1,0 +1,18 @@
+# path: /opt/data/private/yolov10-main/VOCdevkit5  # dataset root dir 原始
+# path: /opt/data/private/yolov10-main/VOCdevkit7  # dataset root dir 加雾
+# path: /opt/data/private/yolov10-main/VOCdevkit  # dataset root dir 加雾最新
+path: /opt/data/private/yolov5/rknn_dataset3 # dataset root dir 加雾最新
+train: train.txt  # train images (relative to 'path') 118287 images
+val: val.txt  # val images (relative to 'path') 5000 images
+test: test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+# names:
+#   0: Primary tearing
+#   1: Secondary tearing
+#   2: flaw
+# nc: 3
+
+names:
+  0: detect
+nc: 1
