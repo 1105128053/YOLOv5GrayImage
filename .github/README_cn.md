@@ -1,6 +1,6 @@
 <div align="center">
   <h1>YOLOv5训练灰度图<h1>
-  参考内容：<a>https://blog.csdn.net/qq_42835363/article/details/132693597</a>
+  参考内容：<a href="https://blog.csdn.net/qq_42835363/article/details/132693597">从0开始 yolov5可以用灰度图像进行训练和检测吗</a>
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
       <img width="850" src="https://raw.githubusercontent.com/ultralytics/assets/master/yolov5/v70/splash.png"></a>
